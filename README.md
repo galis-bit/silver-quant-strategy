@@ -40,3 +40,7 @@ Can a trend-following strategy with volatility control reduce drawdowns and impr
 research/    Exploratory analysis and notebooks
 algorithms/  QuantConnect algorithms
 reports/     Figures, results and conclusions
+
+## Disclaimer
+
+This repository is an educational and research project. It does not constitute financial advice, investment advice or a recommendation to buy or sell any financial instrument.
