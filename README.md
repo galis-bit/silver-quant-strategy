@@ -34,6 +34,10 @@ Can a trend-following strategy with volatility control reduce drawdowns and impr
 7. Optional machine learning extension
 8. Paper-trading evaluation
 
+## Disclaimer
+
+This repository is an educational and research project. It does not constitute financial advice, investment advice or a recommendation to buy or sell any financial instrument.
+
 ## Repository structure
 
 ```text
@@ -41,6 +45,4 @@ research/    Exploratory analysis and notebooks
 algorithms/  QuantConnect algorithms
 reports/     Figures, results and conclusions
 
-## Disclaimer
 
-This repository is an educational and research project. It does not constitute financial advice, investment advice or a recommendation to buy or sell any financial instrument.
